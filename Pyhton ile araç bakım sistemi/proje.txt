@@ -1,0 +1,12 @@
+Araç Bakım Servisi Uygulaması
+
+Bu uygulamada önce araç sahibi aracının marka ve modelini sisteme girmelidir.
+
+Ardından aracın yakıt türünü seçmelidir.(Benzin dizel vs.)
+
+Daha sonra aracın bakım ihityacını belirlemek için kilometre değerinin girilmesi istenecektir.
+
+Sistem aracın kmsine göre hangi servis hizmetinden faydalandığını tespit edecek ve işlemi uygulayacaktır.
+
+ödeme o an değil işlemden sonraki 14 gün içinde ödenecektir. Eğer 14 gün geçilirse ek ücret talep edilecektir.
+
